@@ -1,0 +1,45 @@
+ /**
+ * @name Blood Moon 
+ * @author Cyferak
+ * @description Crafted with adherence to UX principles and the latest UI trends. Unveils a new level of immersion in the dark theme.
+ * @version 1.0.0
+ * @authorId 355490557407133699
+ * @authorLink https://cyferak.pro/
+ * @donate https://ko-fi.com/cyferak
+ * @website https://cyferak.pro/
+ * @source --- tu github ---
+ */
+
+@import url("https://nyri4.github.io/Couve/betterdiscord/app.css");
+
+:root {
+ --clr-white: hsl(0, 0%, 100%);
+ --clr-accent: hsl(350, 70%, 35%);
+ --clr-accent-hover: hsl(350, 70%, 45%);
+
+ --clr-link: hsl(215, 100%, 75%);
+
+ --clr-body: hsl(250, 20%, 10%);
+ --clr-side: hsl(250, 20%, 13%);
+
+ --clr-body-light: hsl(250, 20%, 12%);
+ --clr-side-light: hsl(240, 10%, 9%);
+
+ --clr-hover: hsl(250, 20%, 12%);
+ --clr-grey: hsl(0, 0%, 85%);
+ --clr-grey-dark: hsl(250, 15%, 17%);
+
+ --clr-message-bg: hsl(240, 10%, 1%);
+ --clr-message-border: hsl(0, 0%, 19%); 
+ --clr-cloud: hsl(250, 20%, 15%);
+
+ --clr-message-muted: hsl(250, 10%, 40%);
+
+ --clr-danger: hsl(0, 100%, 60%);
+ --clr-danger-hover: hsl(0, 100%, 64%);
+ --clr-danger-active: hsl(0, 100%, 59%);
+
+ --clr-positive: hsl(120, 59%, 58%);
+ --clr-positive-hover: hsl(120, 59%, 58%);
+ --clr-positive-active: hsl(120, 59%, 58%);;
+}
