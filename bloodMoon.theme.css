@@ -1,16 +1,14 @@
  /**
  * @name Blood Moon 
  * @author Cyferak
+ * @authorId 355490557407133699
  * @description Crafted with adherence to UX principles and the latest UI trends. Unveils a new level of immersion in the dark theme.
  * @version 1.0.0
- * @authorId 355490557407133699
  * @authorLink https://cyferak.pro/
- * @donate https://ko-fi.com/cyferak
  * @website https://cyferak.pro/
- * @source --- tu github ---
  */
 
-@import url("https://nyri4.github.io/Couve/betterdiscord/app.css");
+@import url("https://cyferak.github.io/BetterDiscord/src/source.css");
 
 :root {
  --clr-white: hsl(0, 0%, 100%);
