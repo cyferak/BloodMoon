@@ -1,0 +1,2 @@
+# BloodMoon
+BetterDiscord Dark Theme
